@@ -7,7 +7,7 @@ Hint: Use "0.2f" to format tax and tip rates, and "8.2f" to format dollar amount
 <table>
 
 # Code
-<img width="800" src="https://user-images.githubusercontent.com/101377287/196095179-b9344ae2-ba4e-4a5a-bf1d-e9e0a535e973.png"/>
+<img width="800" src="https://user-images.githubusercontent.com/101377287/196098205-aa8f8c3f-7f34-4dda-8f3d-9629dc79155f.png/>
 
 # Result
 <img width="800" src="https://user-images.githubusercontent.com/101377287/196095350-10844b40-c501-42b7-9c31-cbd07342dc86.png"/>
